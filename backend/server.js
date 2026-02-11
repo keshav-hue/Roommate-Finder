@@ -19,7 +19,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173", // local dev
-      "https://roommate-finder-roan.vercel.app", // vercel frontend
+      "https://roommate-finder-ten.vercel.app", // vercel frontend
     ],
     credentials: true,
   })
